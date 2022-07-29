@@ -1,3 +1,5 @@
+package CodingTest;
+
 import java.util.Stack;
 
 public class CodingTest2_2 {

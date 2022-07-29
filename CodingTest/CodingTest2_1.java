@@ -1,3 +1,5 @@
+package CodingTest;
+
 import java.util.Arrays;
 
 public class CodingTest2_1 {

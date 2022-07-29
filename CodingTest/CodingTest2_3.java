@@ -1,3 +1,5 @@
+package CodingTest;
+
 public class CodingTest2_3 {
 
     static int i = 0;
