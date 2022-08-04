@@ -6,7 +6,7 @@ import java.util.Deque;
 public class MiddleChar {
 
     public static void main(String[] args) {
-        String s = "qwer";
+        String s = "abc";
         System.out.println(solution(s));
     }
 
