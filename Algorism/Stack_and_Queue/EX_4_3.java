@@ -46,9 +46,6 @@ class IntArrayQueue{
         rear++;
         num++;
 
-        if(rear == capacity){
-            rear = 0;
-        }
     }
 
     public int deque() throws EmptyIntArrayQueue{
@@ -61,9 +58,6 @@ class IntArrayQueue{
         front++;
         num--;
 
-        if(front == capacity){
-            front = 0;
-        }
 
         return result;
     }
